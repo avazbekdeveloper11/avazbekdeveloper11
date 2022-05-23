@@ -1,33 +1,21 @@
-<p>
-  <h2 align="center"> Hey there! I'm Asadbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-</p>
-<br>
-<p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
-</p>
-<h3> I'm Software Engineer from Uzbekistan. </h3>
-<br>
-<br>
-- 🔋  I’m <b>Flutter</b> developer .<br>
-- 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: yaxshidasturchi@gmail.com<br>
-- 😄 My website: https://asadbek.hashnode.dev/<br>
-- ⚡️ Fun fact: I use linux🐧
-<br>
-<br>
-<hr>
-<br>
-<b> <h2 align="center"> 📘 My top open source projects </h2> </b>
-<br>
-<p align="center">
-<a href="https://github.com/asadbekdev/ImkonEdu.uz"><img src="https://img.shields.io/badge/EDUCATION SITE-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://github.com/asadbekdev/InstagramBot"><img src="https://img.shields.io/badge/INSTAGRAMBOT-%23E4405F.svg?&style=for-the-badge&logo=InstagramBot&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/TELEGRAMBOT-0088cc.svg?&style=for-the-badge&logo=telegrambot&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://github.com/asadbekdev?tab=repositories"><img src="https://img.shields.io/badge/SEE MORE-%23c34836.svg?&style=for-the-badge&logo=seemore&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-<br>
-<b> <h2 align="center"> 🛠 Languages and Tools </h2> </b>
+### Hi there 👋
+## I'm Temirov Khamza.
+### 💻 &nbsp;About Me 
+- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 🎓 &nbsp; Flutter developer.
+I am a student and a Certified Flutter Developer by Najot ta'im .<br/>
+I am interested in learning Mobile developing.
+
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
+- 🔭 I’m currently working on Flutter Mobile Programming in Tashkent.
+- 🔭 I’m currently open to work in Tashkent onsite and remote.
+- 🌱 I’m currently learning clean architecture.
+- 👯 I’m looking to collaborate with companies to impore my experience.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about Flutter Development.
+- 😄 Pronouns: He/Him
+- ⚡️ Fun fact: I 💖 to code 24x7.
 <br/>
 ### 💻 Stack I Work With
 <br>
@@ -100,7 +88,23 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
 </p>
-<br>
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+------
+[Temirov Khamza the Emris](https://github.com/theEmris)
+Last Edited on: 23/01/2022
