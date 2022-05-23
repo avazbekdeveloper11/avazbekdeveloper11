@@ -1,9 +1,9 @@
 ### Hi there 👋
-## I'm Temirov Khamza.
+## I'm Mavlonov Avazbek.
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Flutter developer.
-I am a student and a Certified Flutter Developer by Najot ta'im .<br/>
+I am a Certified Flutter Developer by Najot ta'im .<br/>
 I am interested in learning Mobile developing.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
