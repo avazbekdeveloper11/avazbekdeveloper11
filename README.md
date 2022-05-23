@@ -28,43 +28,75 @@
 </p>
 <br>
 <b> <h2 align="center"> 🛠 Languages and Tools </h2> </b>
-<p align="center">  
-  ![flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=dlutter&logoColor=white&labelColor=0075BA)
-  ![Dart](https://img.shields.io/badge/-dart-grey?style=for-the-badge&logo=dart&logoColor=white&labelColor=0075BA)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F)
-  ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
-  ![django](https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
-  ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFA611)
-  ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
-  <br>
-  ![linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=072c61)
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4)
-  ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CD6799)
-  ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+<br/>
+### 💻 Stack I Work With
+<br>
+<p  align="center">
+<img src="https://img.shields.io/badge/Flutter-0078D4.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+  </p>
+  
+<p  align="center">
+<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
+  &nbsp;
+ 
+  <img src="https://img.shields.io/badge/Dart-0078D4.svg?&style=for-the-badge&logo=dart&logoColor=important" height="25">
+  </p>
+  
+  <p  align="center">
+  
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/Nodejs-0078D7.svg?&style=for-the-badge&logo=Nodejs&logoColor=white" height="25"/>  
+ </p>
+ 
+ <p  align="center">
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  &nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
+&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
+</p>
+<p align="center">
+ 
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+&nbsp;
 </p>
 <br>
-<b> <h2 align="center">💻 My Github activity </h2></b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+                                                                                    
+ <hr>
+ 
+ <hr>
+ 
+ <br>
+  <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/khamza-temirov-426156230" target="_blank">
+  <img align="center" alt="Khamza Temirov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://emirsmorganson2000@gmail.com/" >
+  <img align="center" alt="Temirov Khamza| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://t.me/the_Temuriy">
+    <img align="center" alt="Temirov H| Telegram" width="24px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
+</a> &nbsp;&nbsp;
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=asadbekdev&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev&theme=radical&title_color=8E2DE2&text_color=fff)
-</p>
 <br>
-<br>
-<b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
-<p align="center">
-&nbsp; <a href="https://twitter.com/asadbekdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://instagram.com/asadbeknoyibjonov" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-  &nbsp; <a href="https://www.linkedin.com/in/asadbek-noyibjonov-6b3b2b1b6/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:yaxshidasturchi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://t.me/adevpro" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
   
-</p>
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-#### Thank You for visiting😇
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=BahromjonPolat" alt="visitor badge"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=asadbekdev" alt="visitor badge"/>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
 </p>
