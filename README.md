@@ -106,4 +106,4 @@ I am interested in learning Mobile developing.
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 ------
-[Temirov Khamza the Emris](https://github.com/theEmris)
+Last Edited on: 23/05/2022
