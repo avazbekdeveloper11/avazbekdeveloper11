@@ -107,4 +107,3 @@ I am interested in learning Mobile developing.
 </p>
 ------
 [Temirov Khamza the Emris](https://github.com/theEmris)
-Last Edited on: 23/01/2022
