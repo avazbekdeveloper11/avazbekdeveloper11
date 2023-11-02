@@ -86,19 +86,6 @@ I am interested in learning Mobile developing.
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
 </p>
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <br>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
