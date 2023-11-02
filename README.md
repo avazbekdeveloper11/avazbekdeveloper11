@@ -39,16 +39,8 @@ I am interested in learning Mobile developing.
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
   &nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
-</p>
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 &nbsp;
 </p>
 <br>
