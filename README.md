@@ -32,9 +32,7 @@ I am interested in learning Mobile developing.
   
   <p  align="center">
   
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/Nodejs-0078D7.svg?&style=for-the-badge&logo=Nodejs&logoColor=white" height="25"/>  
  </p>
  
  <p  align="center">
@@ -67,14 +65,14 @@ I am interested in learning Mobile developing.
   </div>
 <p align="center">
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khamza-temirov-426156230" target="_blank">
-  <img align="center" alt="Khamza Temirov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/avazbek1103/" target="_blank">
+  <img align="center" alt="Avazbek Mavlonov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://emirsmorganson2000@gmail.com/" >
-  <img align="center" alt="Temirov Khamza| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="https://avazbekdeveloper11@gmail.com/" >
+  <img align="center" alt="Mavlonov Avazbek | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://t.me/Mavlonov_Avazbek">
-    <img align="center" alt="Temirov H| Telegram" width="24px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
+<a href="https://t.me/mavlonov_avazbek">
+    <img align="center" alt="Mavlonov A| Telegram" width="24px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a> &nbsp;&nbsp;
 <p>
   
