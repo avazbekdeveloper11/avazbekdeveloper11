@@ -28,9 +28,7 @@ I am interested in learning Mobile developing.
   &nbsp;
  
   <img src="https://img.shields.io/badge/Dart-0078D4.svg?&style=for-the-badge&logo=dart&logoColor=important" height="25">
-  </p>
-  
-  <p  align="center">
+ 
   
   &nbsp;
  </p>
