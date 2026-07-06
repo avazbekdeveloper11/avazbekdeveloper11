@@ -7,7 +7,6 @@
 - 📱 **10+ production apps** shipped to Google Play across **fintech, e-commerce and logistics**
 - 👨‍💼 Former **Mobile Team Lead** at a payments company — owned Flutter architecture and delivery end-to-end
 - 💳 Built consumer **payment & money-transfer apps** (Xonsaroy Pay, Xonsaroy Money)
-- 🧩 Author of open-source Dart packages: [chuck_interceptor](https://github.com/avazbekdeveloper11/chuck_interceptor) and [telegram_bot_crashlytics](https://github.com/avazbekdeveloper11/telegram_bot_crashlytics)
 
 ## 🛠 Tech Stack
 
